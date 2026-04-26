@@ -6,6 +6,6 @@ Collecting usage statistics. To deactivate, set browser.gatherUsageStats to fals
 
   Local URL: http://localhost:8501
   Network URL: http://169.254.0.21:8501
-  External URL: http://136.119.145.109:8501
+  External URL: http://34.67.140.204:8501
 
-  Stopping...
+2026-04-26 08:50:14.490 Session with id 51b3feb5-5bac-4002-b2c0-2bd106fe6804 is already connected! Connecting to a new session.
